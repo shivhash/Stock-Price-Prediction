@@ -1,12 +1,12 @@
 # Stock Price Prediction Using LSTM
 
 ## Overview
-This project demonstrates the use of data preprocessing and technical indicators to predict stock price trends. Leveraging moving averages and daily returns, the analysis showcases expertise in data-driven methodologies, machine learning, financial modeling, and time series analysis.
+This project demonstrates the use of data preprocessing and technical indicators to predict stock price trends. Leveraging moving averages and daily returns, the analysis showcases expertise in data-driven methodologies, machine learning, financial modelling, and time series analysis.
 
 ## Features
 - Data preprocessing and technical indicators for accurate analysis.
-- Expertise in data-driven analysis, machine learning, financial modeling, and time series analysis.
-- LSTM model trained on historical stock data for precise price trend forecasting.
+- Expertise in data-driven analysis, machine learning, financial modelling, and time series analysis.
+- The LSTM model was trained on historical stock data for precise price trend forecasting.
 - Achieved a lower RMSE of 4.1994, indicating high prediction accuracy.
 
 ## Getting Started
@@ -14,12 +14,11 @@ This project demonstrates the use of data preprocessing and technical indicators
 ### Prerequisites
 - Python 3.x
 - Jupyter Notebook or any other Python IDE
-- Required Python libraries (listed in `requirements.txt`)
 
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/shivhash/Stock-Price-Prediction/tree/main.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -30,7 +29,7 @@ This project demonstrates the use of data preprocessing and technical indicators
 ## Usage
 1. Prepare the data:
    - Load historical stock data.
-   - Perform data preprocessing including handling missing values and scaling.
+   - Perform data preprocessing, including handling missing values and scaling.
    - Calculate technical indicators like moving averages and daily returns.
 
 2. Train the LSTM model:
